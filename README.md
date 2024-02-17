@@ -1,6 +1,12 @@
 
 # Python Functions and Exception Handling Tutorial
 
+## how to open the codeing environement
+
+open:
+<a href="https://colab.research.google.com/drive/1RYQp-m3nOEZCMEF4VeKfzwaTHSQ3Lbme?usp=sharing" target="_blank">Click here to open Google Colab</a>
+
+
 ## Introduction to Python Functions
 
 Functions are the building blocks of readable, maintainable, and reusable code. They allow you to execute a block of code multiple times without repeating yourself.
